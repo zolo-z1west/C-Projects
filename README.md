@@ -13,8 +13,6 @@
   - [⚙️ Data Structures & Algo Projects](#-data-structures--algo-projects)
   - [🛠️ Intermediate/Advanced Projects](#-intermediateadvanced-projects)
 - [📈 What's Next?](#-whats-next)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🤝 Connect With Me](#-connect-with-me)
 
 ---
 
